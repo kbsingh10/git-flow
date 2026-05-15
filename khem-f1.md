@@ -1,1 +1,3 @@
-#feature1
+*name:khem
+*address: Kathmandu
+*hobby:football
